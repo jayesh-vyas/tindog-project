@@ -1,1 +1,1 @@
-TinDog Starting Files
+First tiny project - TinDog Starting Files
